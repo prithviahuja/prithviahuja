@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 3rd Year CSE @ Thapar Institute of Engineering & Technology (CGPA: 8.21)  
+- 🎓 Final Year CSE @ Thapar Institute of Engineering & Technology (CGPA: 8.20)  
 - 🤖 Focused on **LLMs, RAG systems, and AI Agents**  
 - 🧠 Strong interest in building **real-world AI products**  
 - ⚡ Quick learner with solid problem-solving & leadership experience  
